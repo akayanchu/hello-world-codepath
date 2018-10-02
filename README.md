@@ -7,7 +7,6 @@ My first repository for codepath.
 `TODO://` I created an app that could change the color of the text by clicking the button.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://media.giphy.com/media/4T0816oWS5of0F4qTX/giphy.gif" width=200><br>
 
